@@ -1,0 +1,26 @@
+{
+  "name": "k6_demo",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/irmanramadhan94/k6_demo#readme",
+  "bugs": {
+    "url": "https://github.com/irmanramadhan94/k6_demo/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irmanramadhan94/k6_demo.git"
+  },
+  "license": "ISC",
+  "author": "irmanramadhan",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "k6": "^0.0.0"
+  },
+  "devDependencies": {
+    "@types/k6": "^1.0.2"
+  }
+}
